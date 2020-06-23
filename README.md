@@ -1,6 +1,6 @@
 # Dicer
-## Dicer is a basic DnD 5e stat rolling simulator.
-## Made by Alexandra Pasinski
+### Dicer is a basic DnD 5e stat rolling simulator.
+### Made by Alexandra Pasinski
 
 The simulation uses the following rules when rolling for stats:
 1. Stats are rolled using four six-sided dice with the lowest dice roll being dropped.
